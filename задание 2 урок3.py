@@ -1,0 +1,11 @@
+print('Этапы эволюции человека')
+a = input('1 этап:')
+b = input('2 этап:')
+c = input('3 этап:')
+d = input('4 этап:')
+e = input('5 этап:')
+f = input('6 этап:')
+g = input('7 этап:')
+h = input('8 этап:')
+print(a, b, c, d, e, f, g, h, sep='=>')
+
